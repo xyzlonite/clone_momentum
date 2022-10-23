@@ -1,0 +1,12 @@
+body {
+  width: 100%;
+  height: 100%;
+  /* Background resizes automatically when menu appears */
+  background-image: url('yourimage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hidden {
+  display: none;
+}
